@@ -12,3 +12,4 @@ spec:
     - ReadWriteOnce
   hostPath:
     path: "/data/mysql"
+    #https://minikube.sigs.k8s.io/docs/handbook/persistent_volumes/
